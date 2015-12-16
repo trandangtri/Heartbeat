@@ -22,7 +22,7 @@ use Spryker\Shared\Application\ApplicationConstants;
 /**
  * @method HeartbeatConfig getConfig()
  */
-class HeartbeatDependencyContainer extends AbstractBusinessFactory
+class HeartbeatBusinessFactory extends AbstractBusinessFactory
 {
 
     /**
